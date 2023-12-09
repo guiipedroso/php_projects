@@ -12,7 +12,7 @@
         Descrição: <textarea name="descricao" rows="7" cols="47" required></textarea>
         <br>
         <br>
-        <input type="submit" value="Cadastrar">
+        <input type="submit" name="Cadastro" value="Cadastrar">
     </form>
 
     <h2>Lista de Atividades</h2>
