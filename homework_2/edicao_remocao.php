@@ -21,7 +21,7 @@
         ID: <input type="text" name="id" value="<?php echo $row['id']; ?>" readonly>
         <br><br>
         Descrição: <br>
-        <textarea name="descricao" cols="47" rows="5" required><?php echo $row['descricao']; ?></textarea>
+        <textarea name="descricao" cols="47" rows="7" required><?php echo $row['descricao']; ?></textarea>
         <br><br>
         <input type="submit" name="editar" value="Editar">
         <input type="submit" name="remover" value="Remover">
