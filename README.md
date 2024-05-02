@@ -57,4 +57,5 @@ Styling of the screens can be done using CSS to enhance the user experience.
 
 ## Final Considerations
 
+
 This PHP CRUD offers a simple and effective way to manage activities, allowing users to create, view, update, and delete records intuitively. The styling of the screens can be customized according to the project's needs.
